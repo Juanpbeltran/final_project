@@ -1,7 +1,7 @@
 # (working_title) final_project
 
-The following shows a statistical analysis approach of the behavior of students' final exam grades when using a gamified app as a supplementary preparation 
-as well as the traditional approach.
+The following shows a statistical analysis approach of the behavior of students' final exam grades when using a gamified app as a 
+supplementary preparation as well as the traditional approach.
 
 
 # Title
